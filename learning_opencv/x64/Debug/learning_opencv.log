@@ -1,0 +1,5 @@
+﻿  learning_opencv.cpp
+g:\work\learning_opencv\learning_opencv\learning_opencv.cpp(13): error C2665: “cv::format”: 2 个重载中没有一个可以转换所有参数类型
+  f:\opencv\build\include\opencv2\core\operations.hpp(373): note: 可能是“cv::Ptr<cv::Formatted> cv::format(cv::InputArray,int)”
+  f:\opencv\build\include\opencv2\core\operations.hpp(368): note: 或    “cv::String cv::format(const char *,...)”
+  g:\work\learning_opencv\learning_opencv\learning_opencv.cpp(13): note: 尝试匹配参数列表“(cv::Mat, const char [7])”时
